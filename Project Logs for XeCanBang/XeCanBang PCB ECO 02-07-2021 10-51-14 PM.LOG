@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=INT_MPU Pin=JP1-12
+Removed Pin From Net: NetName=SDA Pin=JP1-14
+Removed Pin From Net: NetName=SCL Pin=JP1-16
+Removed Pin From Net: NetName=BUZZ Pin=JP1-18
+Added Pin To Net: NetName=BUZZ Pin=JP1-12
+Added Pin To Net: NetName=INT_MPU Pin=JP1-14
+Added Pin To Net: NetName=SDA Pin=JP1-16
+Added Pin To Net: NetName=SCL Pin=JP1-18
+Added Room: Name=XeCanBang

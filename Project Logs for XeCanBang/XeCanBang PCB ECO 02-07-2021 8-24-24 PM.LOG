@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetF1_1 Pin=P2-1
+Removed Pin From Net: NetName=NetP1_2 Pin=P2-2
+Removed Member From Class: ClassName=XeCanBang Member=P2
+Added Component: Designator=SW?(Switch)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetF1_1 Pin=SW?-1
+Added Pin To Net: NetName=NetP1_2 Pin=SW?-2
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Added Member To Class: ClassName=XeCanBang Member=Component SW? Switch
+Added Room: Name=XeCanBang

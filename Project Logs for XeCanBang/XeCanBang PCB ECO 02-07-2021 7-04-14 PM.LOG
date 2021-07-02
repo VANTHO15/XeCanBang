@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=12V Pin=MIC1-1
+Removed Pin From Net: NetName=12V Pin=MIC1-2
+Removed Pin From Net: NetName=GND Pin=MIC1-3
+Removed Pin From Net: NetName=5V Pin=MIC1-4
+Removed Member From Class: ClassName=XeCanBang Member=MIC1
+Added Component: Designator=*(MIC29302)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=12V Pin=*-1
+Added Pin To Net: NetName=12V Pin=*-2
+Added Pin To Net: NetName=GND Pin=*-3
+Added Pin To Net: NetName=5V Pin=*-4
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_5 Pin=R1-1
+Added Pin To Net: NetName=Net*_5 Pin=R3-2
+Added Net: Name=Net*_5
+Added Member To Class: ClassName=XeCanBang Member=Component * Component_1

@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=LED? NewDesignator=LED2
+Change Component Designator: OldDesignator=LED? NewDesignator=LED3
+Change Component Designator: OldDesignator=LED? NewDesignator=LED4
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED2_1
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R8-1
+Added Net: Name=NetLED3_1
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R9-1
+Added Net: Name=NetLED4_1
+Added Member To Class: ClassName=XeCanBang Member=Component LED3 LED
+Added Member To Class: ClassName=XeCanBang Member=Component LED4 LED
+Added Member To Class: ClassName=XeCanBang Member=Component R4 10K
+Added Member To Class: ClassName=XeCanBang Member=Component R5 2K
+Added Member To Class: ClassName=XeCanBang Member=Component R6 1K
+Added Member To Class: ClassName=XeCanBang Member=Component R8 1K

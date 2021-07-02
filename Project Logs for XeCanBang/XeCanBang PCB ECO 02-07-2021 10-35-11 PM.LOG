@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=INB_RIGHT Pin=JP1-8
+Removed Pin From Net: NetName=INA_RIGHT Pin=JP1-10
+Added Pin To Net: NetName=INA_RIGHT Pin=JP1-8
+Added Pin To Net: NetName=INB_RIGHT Pin=JP1-10
+Added Room: Name=XeCanBang

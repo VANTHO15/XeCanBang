@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=3V3 Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=LED2-2
+Removed Pin From Net: NetName=GND Pin=LED3-2
+Removed Pin From Net: NetName=GND Pin=LED4-2
+Removed Member From Class: ClassName=XeCanBang Member=C6
+Removed Member From Class: ClassName=XeCanBang Member=LED2
+Removed Member From Class: ClassName=XeCanBang Member=LED3
+Removed Member From Class: ClassName=XeCanBang Member=LED4
+Added Component: Designator=C?(CAPNTO2.54-3.05x1.78A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "D:\Dropbox\Datasheets\Passive Components\Capacitors\AVX Disc Ceramic Capacitors.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LED-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LED-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LED-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=NetLED?_1 Pin=LED?-1
+Added Pin To Net: NetName=NetLED?_1 Pin=R?-1
+Added Net: Name=NetLED?_1
+Added Member To Class: ClassName=XeCanBang Member=Component C? 5AK220KABAA
+Added Member To Class: ClassName=XeCanBang Member=Component LED? LED
+Added Member To Class: ClassName=XeCanBang Member=Component LED? LED
+Added Member To Class: ClassName=XeCanBang Member=Component LED? LED
+Added Member To Class: ClassName=XeCanBang Member=Component R? 10K
+Added Member To Class: ClassName=XeCanBang Member=Component R? 2K
+Added Member To Class: ClassName=XeCanBang Member=Component R? 1K
+Added Member To Class: ClassName=XeCanBang Member=Component R? 1K
+Added Room: Name=XeCanBang

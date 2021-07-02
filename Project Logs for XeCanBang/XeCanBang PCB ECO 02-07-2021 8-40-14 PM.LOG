@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=* Old Footprint=MIC29302 New Footprint=MIC
+Added Member To Class: ClassName=XeCanBang Member=Component SW? Switch
+Added Room: Name=XeCanBang
